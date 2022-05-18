@@ -522,6 +522,15 @@ _recipes = {
             },
         ],
     },
+    "chainfeeds": {
+        "limit": 2000,
+        "opml": "https://raw.githubusercontent.com/chainfeeds/RSSAggregatorforWeb3/main/RAW.opml",
+        "filters": [
+            {
+                "in_seconds": 3600 * 12,
+            },
+        ],
+    },
 }
 
 
