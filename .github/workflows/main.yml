@@ -7,7 +7,7 @@ on:
       - deploy
   workflow_dispatch:
   schedule:
-    - cron:  '15 * * * *' # every hour at 15 min
+    - cron:  '*/30 * * * *' # every 30min
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:

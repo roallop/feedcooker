@@ -511,14 +511,25 @@ _recipes = {
     "mirror_chinese": {
         "limit": 2000,
         "urls": [
-            "https://raw.githubusercontent.com/RoCry/arweave-tracker/deploy/posts.feed.json",
+            "https://github.com/RoCry/arweave-tracker/releases/download/latest/posts.feed.json",
         ],
         "filters": [
             {
                 "in_seconds": 3600 * 12,
             },
             {
-                "title": "\p{Han}{4,}",
+                "title": "\p{Han}{2,}",
+            },
+        ],
+    },
+    "mirror": {
+        "limit": 4000,
+        "urls": [
+            "https://github.com/RoCry/arweave-tracker/releases/download/latest/posts.feed.tiny.json",
+        ],
+        "filters": [
+            {
+                "in_seconds": 3600 * 12,
             },
         ],
     },
