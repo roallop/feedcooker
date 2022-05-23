@@ -97,7 +97,7 @@ class Cooker(object):
             results = [
                 self._json_feed_to_feed_item(feed, item) for item in feed["items"]
             ]
-            save_resp(resp)
+            save_resp(url, resp)
             return results
 
         f = feedparser.parse(resp.text)
@@ -106,7 +106,7 @@ class Cooker(object):
             raise Exception(f"Failed to parse feed: {ex}")
 
         results = [self._entry_to_feed_item(f.feed, e) for e in f.entries]
-        save_resp(resp)
+        save_resp(url, resp)
         return results
 
     @staticmethod

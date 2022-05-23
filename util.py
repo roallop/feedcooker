@@ -27,10 +27,10 @@ def try_load_resp(url: str) -> Optional[requests.Response]:
         return None
 
 
-def save_resp(resp: requests.Response):
+def save_resp(url: str, resp: requests.Response):
     os.makedirs(cache_folder, exist_ok=True)
 
-    key = url_to_valid_filename(resp.url)
+    key = url_to_valid_filename(url)
     with open(os.path.join(cache_folder, key), "wb") as f:
         pickle.dump(resp, f)
 
