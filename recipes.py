@@ -49,6 +49,7 @@ _recipes = {
             "https://mirror.xyz/mintventures.eth/feed/atom",
             "https://mirror.xyz/0xABae923874F05e922A22932d8d2117ffE627212d/feed/atom",
             "https://mirror.xyz/tannhauser2049.eth/feed/atom",
+            "https://c.mirror.xyz/feed/atom",
         ],
         "filters": [
             {
@@ -148,7 +149,6 @@ _recipes = {
             "https://avc.mirror.xyz/feed/atom",
             "https://banklessdao.mirror.xyz/feed/atom",
             "https://buidl.mirror.xyz/feed/atom",
-            "https://c.mirror.xyz/feed/atom",
             "https://calblockchain.mirror.xyz/feed/atom",
             "https://city.mirror.xyz/feed/atom",
             "https://club.mirror.xyz/feed/atom",
