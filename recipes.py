@@ -110,6 +110,7 @@ _recipes = {
             "https://medium.com/feed/@cryptohayes",
             "https://medium.com/feed/@b1995",
             "https://medium.com/feed/@ntmoney",
+            "https://medium.com/feed/@jhSMRT",
         ],
         "filters": [
             {
