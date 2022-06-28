@@ -148,7 +148,7 @@ _recipes = {
             "https://mirror.xyz/yourairdrop.eth/feed/atom",
             "https://mirror.xyz/yufly.eth/feed/atom",
             "https://mirror.xyz/yunzi.eth/feed/atom",
-            "https://mirror.xyz/owenzhang.eth",
+            "https://mirror.xyz/owenzhang.eth/feed/atom",
         ],
         "filters": [
             {
