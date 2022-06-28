@@ -149,6 +149,10 @@ _recipes = {
             "https://mirror.xyz/yufly.eth/feed/atom",
             "https://mirror.xyz/yunzi.eth/feed/atom",
             "https://mirror.xyz/owenzhang.eth/feed/atom",
+            "https://mirror.xyz/0x4229F08dC41E04F0a760F237F5671ef015c52ac9/feed/atom”,
+            "https://mirror.xyz/0x65684B9D2B06469E88acfc1B88c65912F7BB795B/feed/atom”,
+            "https://mirror.xyz/iamwgg.eth/feed/atom”,
+            "https://mirror.xyz/cryptoscott.eth/feed/atom”,
         ],
         "filters": [
             {
