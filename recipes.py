@@ -153,6 +153,7 @@ _recipes = {
             "https://mirror.xyz/0x65684B9D2B06469E88acfc1B88c65912F7BB795B/feed/atom",
             "https://mirror.xyz/iamwgg.eth/feed/atom",
             "https://mirror.xyz/cryptoscott.eth/feed/atom",
+            "https://mirror.xyz/jxblock.eth/feed/atom",
         ],
         "filters": [
             {
