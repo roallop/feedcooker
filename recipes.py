@@ -158,6 +158,10 @@ _recipes = {
             "https://mirror.xyz/0xe70628e0E8e15F222AAdb406ce93fea713d6c30e/feed/atom",
             "https://mirror.xyz/malatang.eth/feed/atom",
             "https://mirror.xyz/0x24A7E31AB3eD8e6225b474006BC64F6D5841bd5f/feed/atom",
+            "https://mirror.xyz/ericclfung.eth/feed/atom",
+            "https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd/feed/atom",
+            "https://mirror.xyz/0x633653A579959D7e2C0331A4d0Ef0D114Fd47aA4/feed/atom",
+
         ],
         "filters": [
             {
