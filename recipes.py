@@ -162,7 +162,8 @@ _recipes = {
             "https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd/feed/atom",
             "https://mirror.xyz/0x633653A579959D7e2C0331A4d0Ef0D114Fd47aA4/feed/atom",
             "https://cdixon.mirror.xyz/feed/atom",
-
+            "https://mirror.xyz/4billiondao.eth/feed/atom",
+            "https://orangexyz.mirror.xyz/feed/atom",
         ],
         "filters": [
             {
@@ -178,6 +179,7 @@ _recipes = {
             "https://medium.com/feed/@b1995",
             "https://medium.com/feed/@ntmoney",
             "https://medium.com/feed/@jhSMRT",
+            "https://medium.com/feed/taipei-ethereum-meetup",
         ],
         "filters": [
             {
