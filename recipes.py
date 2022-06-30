@@ -161,6 +161,7 @@ _recipes = {
             "https://mirror.xyz/ericclfung.eth/feed/atom",
             "https://mirror.xyz/0x17f3F81860345567482E1D232FB5B6f8bD77f3Bd/feed/atom",
             "https://mirror.xyz/0x633653A579959D7e2C0331A4d0Ef0D114Fd47aA4/feed/atom",
+            "https://cdixon.mirror.xyz/feed/atom",
 
         ],
         "filters": [
