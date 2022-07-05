@@ -166,6 +166,7 @@ _recipes = {
             "https://orangexyz.mirror.xyz/feed/atom",
             "https://mirror.xyz/0x0d8c792f881c08420859FCCDA79B3C90d0A6a4cF/feed/atom",
             "https://mirror.xyz/0x69B18e301cE3eeA9bE5296f941f6D6C7600C1698/feed/atom",
+            "https://mirror.xyz/cbangalore.eth/feed/atom",
         ],
         "filters": [
             {
