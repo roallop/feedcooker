@@ -167,6 +167,11 @@ _recipes = {
             "https://mirror.xyz/0x0d8c792f881c08420859FCCDA79B3C90d0A6a4cF/feed/atom",
             "https://mirror.xyz/0x69B18e301cE3eeA9bE5296f941f6D6C7600C1698/feed/atom",
             "https://mirror.xyz/cbangalore.eth/feed/atom",
+            "https://mirror.xyz/lisaliu.eth/feed/atom",
+            "https://chao.mirror.xyz/feed/atom",
+            "https://mirror.xyz/0xE8C078C600132AB68685eA06a5f7C7bC1A349b76/feed/atom",
+            "https://mirror.xyz/web3fox.eth/feed/atom",
+            "https://mirror.xyz/infinet.eth/feed/atom",
         ],
         "filters": [
             {
