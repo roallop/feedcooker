@@ -172,6 +172,14 @@ _recipes = {
             "https://mirror.xyz/0xE8C078C600132AB68685eA06a5f7C7bC1A349b76/feed/atom",
             "https://mirror.xyz/web3fox.eth/feed/atom",
             "https://mirror.xyz/infinet.eth/feed/atom",
+            "https://mirror.xyz/0xed111Cf8C23AEafe12286Fd60EE670007457Bf87/feed/atom",
+            "https://mirror.xyz/lindalinda.eth/feed/atom",
+            "https://mirror.xyz/dragonhorn.eth/feed/atom",
+            "https://mirror.xyz/12241.eth/feed/atom",
+            "https://mirror.xyz/0xb5CDd8a3b6BEf7aA35763c79779Fe80FeE2c9C4B/feed/atom",
+            "https://mirror.xyz/mtyl.eth/feed/atom",
+            "https://mirror.xyz/0x161F768820dd53cf3e7254f1BFb4F0D4076E3ec0/feed/atom",
+            "https://w3hitchhiker.mirror.xyz/feed/atom",
         ],
         "filters": [
             {
