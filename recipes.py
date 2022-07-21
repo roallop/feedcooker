@@ -197,6 +197,8 @@ _recipes = {
             "https://medium.com/feed/@jhSMRT",
             "https://medium.com/feed/@taipei-ethereum-meetup",
             "https://medium.com/feed/@slowmist",
+            "https://medium.com/feed/@ambergroup",
+            "https://medium.com/feed/@zackary",
         ],
         "filters": [
             {
