@@ -181,6 +181,7 @@ _recipes = {
             "https://mirror.xyz/0x161F768820dd53cf3e7254f1BFb4F0D4076E3ec0/feed/atom",
             "https://w3hitchhiker.mirror.xyz/feed/atom",
             "https://mirror.xyz/cryptoscott.eth/feed/atom",
+            "https://mirror.xyz/0x7dE6962797D4bDCDAE15fb4A258E2389fC38ecF7/feed/atom",
         ],
         "filters": [
             {
