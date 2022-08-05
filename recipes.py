@@ -696,7 +696,7 @@ _recipes = {
 }
 
 
-def get_recipes(prefer_submirror=True) -> [dict]:
+def get_recipes(prefer_submirror=False) -> [dict]:
     recipes = {}
     for name, recipe in _recipes.items():
         for sub_name, r in _fulfill_opml_recipe(name, recipe).items():
