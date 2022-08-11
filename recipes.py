@@ -182,6 +182,7 @@ _recipes = {
             "https://w3hitchhiker.mirror.xyz/feed/atom",
             "https://mirror.xyz/cryptoscott.eth/feed/atom",
             "https://mirror.xyz/0x7dE6962797D4bDCDAE15fb4A258E2389fC38ecF7/feed/atom",
+            "https://masterpa.mirror.xyz/feed/atom",
         ],
         "filters": [
             {
