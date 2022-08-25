@@ -210,6 +210,29 @@ _recipes = {
             },
         ],
     },
+    "crypto_vc_rss": {
+        "urls": [
+            "https://medium.com/feed/@fabric-vc",
+            "https://medium.com/feed/@iosgvc",
+            "https://medium.com/feed/@hashkey_group",
+            "https://medium.com/feed/@ld-capital",
+            "https://medium.com/feed/@foresightventures",
+            "https://medium.com/feed/@dragonfly-research",
+            "https://medium.com/feed/@sevenxventures",
+            "https://medium.com/feed/@antcapital",
+            "https://a16z.com/feed",
+            "https://medium.com/feed/@paradigm-research",
+            "https://medium.com/feed/@multicoin-capital",
+            "https://www.sequoiacap.com/feed/",
+            "https://medium.com/feed/@panteracapital",
+            "https://medium.com/feed/@animocabrands",
+        ],
+        "filters": [
+            {
+                "in_seconds": 3600 * 24 * 3,
+            },
+        ],
+    },
     "web3_massive_news": {
         "urls": [
             "https://mirror.xyz/alexalombardo.eth/feed/atom",
