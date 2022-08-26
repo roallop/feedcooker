@@ -226,6 +226,9 @@ _recipes = {
             "https://www.sequoiacap.com/feed/",
             "https://medium.com/feed/@panteracapital",
             "https://medium.com/feed/@animocabrands",
+            "https://medium.com/feed/@ElectricCapital",
+            "https://www.usv.com/writing/feed/",
+            "https://www.variant-ventures.com/feed/",
         ],
         "filters": [
             {
