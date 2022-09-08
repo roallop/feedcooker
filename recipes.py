@@ -184,6 +184,7 @@ _recipes = {
             "https://mirror.xyz/0x7dE6962797D4bDCDAE15fb4A258E2389fC38ecF7/feed/atom",
             "https://masterpa.mirror.xyz/feed/atom",
             "https://mirror.xyz/yima.eth/feed/atom",
+            "https://mirror.xyz/0x07599B7E947A4F6240F826F41768F76149F490D5/feed/atom",
         ],
         "filters": [
             {
