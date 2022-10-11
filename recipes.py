@@ -187,6 +187,7 @@ _recipes = {
             "https://mirror.xyz/0x07599B7E947A4F6240F826F41768F76149F490D5/feed/atom",
             "https://mirror.xyz/starzq.eth/feed/atom",
             "https://mirror.xyz/mintventures.eth/feed/atom",
+            "https://mirror.xyz/0xBd6B4244e5Df08913fD51118D0d859458BbA5576/feed/atom",
         ],
         "filters": [
             {
