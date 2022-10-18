@@ -208,6 +208,7 @@ _recipes = {
             "https://medium.com/feed/@slowmist",
             "https://medium.com/feed/@ambergroup",
             "https://medium.com/feed/@zackary",
+            "https://medium.com/feed/@hivetech",
         ],
         "filters": [
             {
