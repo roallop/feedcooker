@@ -108,7 +108,6 @@ _recipes = {
             "https://mirror.xyz/darkhorseclub.eth/feed/atom",
             "https://mirror.xyz/denze.eth/feed/atom",
             "https://mirror.xyz/dere.eth/feed/atom",
-            "https://mirror.xyz/dfarm.eth/feed/atom",
             "https://mirror.xyz/duynguyen96.eth/feed/atom",
             "https://mirror.xyz/epowell101.eth/feed/atom",
             "https://mirror.xyz/ethereumcn.eth/feed/atom",
